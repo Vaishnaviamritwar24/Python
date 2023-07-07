@@ -1,0 +1,7 @@
+write():We can write the date to a file.
+This file write mode.
+Open an existing file for write operation.
+If the file already contains some data then it will be overridden.
+If the specified file is not already available then this mode will create that file.This file write modeThis file is currently in append modeThis file is currently in append mode.
+It won't override existing data.
+If the specified file is not already available then this mode will create a new file.
